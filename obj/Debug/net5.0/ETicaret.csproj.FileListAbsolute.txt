@@ -1,0 +1,16 @@
+D:\SadikTuranEgitim\AspNetCoreSifirdan\NetCore\ETicaret\bin\Debug\net5.0\ETicaret.exe
+D:\SadikTuranEgitim\AspNetCoreSifirdan\NetCore\ETicaret\bin\Debug\net5.0\ETicaret.deps.json
+D:\SadikTuranEgitim\AspNetCoreSifirdan\NetCore\ETicaret\bin\Debug\net5.0\ETicaret.runtimeconfig.json
+D:\SadikTuranEgitim\AspNetCoreSifirdan\NetCore\ETicaret\bin\Debug\net5.0\ETicaret.runtimeconfig.dev.json
+D:\SadikTuranEgitim\AspNetCoreSifirdan\NetCore\ETicaret\bin\Debug\net5.0\ETicaret.dll
+D:\SadikTuranEgitim\AspNetCoreSifirdan\NetCore\ETicaret\bin\Debug\net5.0\ref\ETicaret.dll
+D:\SadikTuranEgitim\AspNetCoreSifirdan\NetCore\ETicaret\bin\Debug\net5.0\ETicaret.pdb
+D:\SadikTuranEgitim\AspNetCoreSifirdan\NetCore\ETicaret\obj\Debug\net5.0\ETicaret.csproj.AssemblyReference.cache
+D:\SadikTuranEgitim\AspNetCoreSifirdan\NetCore\ETicaret\obj\Debug\net5.0\ETicaret.GeneratedMSBuildEditorConfig.editorconfig
+D:\SadikTuranEgitim\AspNetCoreSifirdan\NetCore\ETicaret\obj\Debug\net5.0\ETicaret.AssemblyInfoInputs.cache
+D:\SadikTuranEgitim\AspNetCoreSifirdan\NetCore\ETicaret\obj\Debug\net5.0\ETicaret.AssemblyInfo.cs
+D:\SadikTuranEgitim\AspNetCoreSifirdan\NetCore\ETicaret\obj\Debug\net5.0\ETicaret.csproj.CoreCompileInputs.cache
+D:\SadikTuranEgitim\AspNetCoreSifirdan\NetCore\ETicaret\obj\Debug\net5.0\ETicaret.dll
+D:\SadikTuranEgitim\AspNetCoreSifirdan\NetCore\ETicaret\obj\Debug\net5.0\ref\ETicaret.dll
+D:\SadikTuranEgitim\AspNetCoreSifirdan\NetCore\ETicaret\obj\Debug\net5.0\ETicaret.pdb
+D:\SadikTuranEgitim\AspNetCoreSifirdan\NetCore\ETicaret\obj\Debug\net5.0\ETicaret.genruntimeconfig.cache
